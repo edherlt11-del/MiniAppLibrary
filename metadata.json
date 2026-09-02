@@ -1,0 +1,6 @@
+{
+  "name": "Fábrica de Mini-Apps",
+  "description": "200+ Ideas Rentables de Mini-Apps con investigación, copy y anuncios listos para que las pongas en práctica hoy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
